@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on advanced data science and analytics projects
 - 🌱 I’m currently learning new empirical research methods and machine learning techniques 
 - 💬 Ask me about anything
-- 📫 How to reach me: [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📫 How to reach me: [<img alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My favorite tea - Rooibos - is a red tea found in South Africa and is part of the legume family
 
