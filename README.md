@@ -2,7 +2,7 @@
 
 ## I'm a Data Scientist, Consultant, and Lifelong Learner!
 - 🔭 I’m currently working on advanced data science and analytics projects
-- 🌱 I’m currently learning novel empirical research methods and machine learning techniques 
+- 🌱 I’m currently learning novel research methods and machine learning techniques 
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn]
 - 😄 Pronouns: He/Him/His
